@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-cloud">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="cloud" clip-path="url(#clip-cloud)">
+    <path id="upload-filled-svgrepo-com" d="M81.144,216v-6.858h4.572L80,202.286l-5.715,6.858h4.572V216H73.144v-.057c-.192.011-.375.057-.571.057a8.55,8.55,0,0,1-.978-17.046,8.56,8.56,0,0,1,16.817,0A8.55,8.55,0,0,1,87.428,216c-.192,0-.377-.046-.571-.057V216Z" transform="translate(-64 -188.001)" fill="#3b82f6"/>
+  </g>
+</svg>

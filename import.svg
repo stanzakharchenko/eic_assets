@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-import">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="import" clip-path="url(#clip-import)">
+    <g id="import-svgrepo-com" transform="translate(-145.434 -83.163)">
+      <path id="Path_4" data-name="Path 4" d="M149.333,110.227V88.1a2.774,2.774,0,0,1,2.766-2.766h16.6a2.774,2.774,0,0,1,2.766,2.766v22.128a2.774,2.774,0,0,1-2.766,2.766H152.1a2.774,2.774,0,0,1-2.766-2.766Z" transform="translate(0 0)" fill="#f8bbd0"/>
+      <path id="Path_5" data-name="Path 5" d="M283.733,326.223l7.4-6.223v12.447Z" transform="translate(-130.044 -227.06)" fill="#e91e63"/>
+      <path id="Path_6" data-name="Path 6" d="M405.333,448h15.9v4.149h-15.9Z" transform="translate(-247.702 -350.911)" fill="#e91e63"/>
+    </g>
+  </g>
+</svg>

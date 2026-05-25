@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-folder">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="folder" clip-path="url(#clip-folder)">
+    <g id="folder-svgrepo-com" transform="translate(-85.334 -167.467)">
+      <path id="Path_2" data-name="Path 2" d="M114.134,173.867h-14.4l-3.2-3.2h-8a3.209,3.209,0,0,0-3.2,3.2v6.4h32v-3.2a3.209,3.209,0,0,0-3.2-3.2Z" fill="#ffa000"/>
+      <path id="Path_3" data-name="Path 3" d="M114.134,256h-25.6a3.209,3.209,0,0,0-3.2,3.2v16a3.209,3.209,0,0,0,3.2,3.2h25.6a3.209,3.209,0,0,0,3.2-3.2v-16a3.209,3.209,0,0,0-3.2-3.2Z" transform="translate(0 -82.133)" fill="#ffca28"/>
+    </g>
+  </g>
+</svg>
